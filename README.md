@@ -11,7 +11,7 @@ This repository contains everything needed for building and publishing a [Docker
 
 ## Try it
 
-Start the image at your own Docker Engine environment.
+Run the image at your own container via Docker Engine.
 
 ```bash
 docker run --rm capjan/java-dotnet-base
