@@ -9,6 +9,14 @@ This repository contains everything needed for building and publishing a [Docker
 - OpenJDK 11
 - [Documentation](https://github.com/capjan/java-dotnet-base-image/wiki)
 
+## Try it
+
+Start the image at your own Docker Engine environment.
+
+```bash
+docker run --rm capjan/java-dotnet-base
+```
+
 ## Motivation
 
 I use it as quick onboarding image for projects where Java and .NET environments in combination are needed.
