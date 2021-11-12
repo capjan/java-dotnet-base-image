@@ -1,6 +1,6 @@
 # Java / .NET Base Image
 
-This repository contains everything for building and publishing a [Docker](https://www.docker.com) base image intended for Java/.NET interoperation.
+This repository contains everything needed for building and publishing a [Docker](https://www.docker.com) base image intended for Java/.NET interoperation.
 
 ## Features
 
