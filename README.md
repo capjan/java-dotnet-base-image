@@ -4,6 +4,7 @@ This repository contains everything for building and publishing a [Docker](https
 
 ## Features
 
+- [Public image](https://hub.docker.com/repository/docker/capjan/java-dotnet-base) at Docker Hub
 - .NET SDK 5.0
 - OpenJDK 11
 - [Documentation](https://github.com/capjan/java-dotnet-base-image/wiki)
